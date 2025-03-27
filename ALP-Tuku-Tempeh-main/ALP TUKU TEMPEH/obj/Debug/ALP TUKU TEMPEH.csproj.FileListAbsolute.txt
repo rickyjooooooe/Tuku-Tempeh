@@ -1,0 +1,37 @@
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\bin\Debug\ALP TUKU TEMPEH.exe.config
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\bin\Debug\ALP TUKU TEMPEH.exe
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\bin\Debug\ALP TUKU TEMPEH.pdb
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\obj\Debug\ALP TUKU TEMPEH.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\obj\Debug\ALP TUKU TEMPEH.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\obj\Debug\ALP_TUKU_TEMPEH.Form1.resources
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\obj\Debug\ALP_TUKU_TEMPEH.Properties.Resources.resources
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\obj\Debug\ALP TUKU TEMPEH.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\obj\Debug\ALP TUKU TEMPEH.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\obj\Debug\ALP TUKU TEMPEH.exe
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\obj\Debug\ALP TUKU TEMPEH.pdb
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\obj\Debug\ALP_TUKU_TEMPEH.FormLogin.resources
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\bin\Debug\MySql.Data.dll
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\bin\Debug\MySql.Web.dll
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\bin\Debug\Google.Protobuf.dll
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\bin\Debug\ZstdNet.dll
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\bin\Debug\System.Buffers.dll
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\bin\Debug\MySql.Data.xml
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\bin\Debug\MySql.Web.xml
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\obj\Debug\ALP TUKU TEMPEH.exe.config
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\obj\Debug\ALP TUKU TEMPEH.csproj.CopyComplete
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\obj\Debug\ALP_TUKU_TEMPEH.Homepage.resources
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\obj\Debug\ALP_TUKU_TEMPEH.Transaksi_Pembelian.resources
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\obj\Debug\ALP_TUKU_TEMPEH.Transaksi_Penjualan.resources
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\obj\Debug\ALP_TUKU_TEMPEH.ForgotPass.resources
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\obj\Debug\ALP_TUKU_TEMPEH.Form3.resources
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\obj\Debug\ALP_TUKU_TEMPEH.Form4.resources
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\obj\Debug\ALP_TUKU_TEMPEH.Form5.resources
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\obj\Debug\ALP_TUKU_TEMPEH.Laporan_Penjualan.resources
+C:\Users\USER\source\repos\ALP TUKU TEMPEH\ALP TUKU TEMPEH\obj\Debug\ALP_TUKU_TEMPEH.Form6.resources
